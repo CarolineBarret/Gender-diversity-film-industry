@@ -1,4 +1,4 @@
-# Gender-diversity-film-industry
+# Gender diversity in the film industry
 
 
 The year 2017 has completely turned the film industry upside down. The allegations of harassment and sexual assault against Harvey Weinstein have raised the issue of the sexism and misogyny among this industry to the eyes of the general public. In addition, it helped raise the topic of the **gender non-diversity and the under-representation of women in Hollywood**. One of the main problem posed by the weak presence of women behind the camera is that this is reflected in the fictional characters on screen: lots of movies portray women in an incomplete, stereotyped and biased way.  
