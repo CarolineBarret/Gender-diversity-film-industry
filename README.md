@@ -348,7 +348,7 @@ code I used to visualise the **gender diversity in 2017**.
       guides(fill = guide_legend(reverse=TRUE)) + # reverse the order of the legend
       scale_fill_manual(values = brewer.pal(8, "Spectral")) # palette used to fill the bars and legend boxs
 
-![](gender-diversity-film-industry_files/figure-markdown_strict/p_plot-1.png)
+![](analysis/plots/p_plot-1.png)
 
 As we can see, in 2017, the behind-the-camera roles of both **directors
 and writers** show the **most limited women occupation**: less than 10%
@@ -392,7 +392,7 @@ managed to visualise is as follows.
            x = "",
            y = "Percentages")
 
-![](gender-diversity-film-industry_files/figure-markdown_strict/show_evolution-1.png)
+![](analysis/plots/show_evolution-1.png)
 
 The first thing I noticed is that **the representativeness gap between
 the roles of make-up artists and costume designers and the other ones
@@ -472,7 +472,7 @@ order to get this prediction.
            x = "",
            y = "Percentages")
 
-![](gender-diversity-film-industry_files/figure-markdown_strict/show_fcst-1.png)
+![](analysis/plots/show_fcst-1.png)
 
 The predicted values I got for 2018 are **approximately the same as the
 one I calculated for 2017**. However it is a basic forecasting, and it
