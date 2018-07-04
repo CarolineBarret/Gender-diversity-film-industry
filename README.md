@@ -5,7 +5,7 @@ The year 2017 has completely turned the film industry upside down. The allegatio
 
 This project focuses on some key **behind-the-camera roles** to measure the evolution of their gender diversity in the last decade, from 2007 until 2017. The roles I studied were the following: **directors, writers, producers, sound teams, music teams, art teams, makeup teams and costume teams**. 
 
-All the data used for this project was gathered from the **IMDb website**. The main objects I created and which gather the information I used to proceed with the analysis are available in the **data folder**. The full analysis is available in the **analysis folder** and gathered in the *html file*.
+All the data used for this project was gathered from the **IMDb website**. The main objects I created and which gather the information I used to proceed with the analysis are available in the **data folder**.
 
 Data frame creation - Web scraping
 ----------------------------------
